@@ -117,3 +117,6 @@ To browse everything at once, open `preview/dl-architectures.drawio` (one page p
 
 ## Contribution
 We welcome issues and pull requests to improve this project — new architectures, corrections, or style improvements are all appreciated.
+
+## License
+This project is open-sourced under the [MIT License](LICENSE).
